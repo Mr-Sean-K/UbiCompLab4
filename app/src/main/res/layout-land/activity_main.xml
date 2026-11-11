@@ -6,7 +6,7 @@
 
     <fragment
         android:id="@+id/listFragment"
-        android:name="com.example.recipes.RecipeListFragment"
+        android:name="com.example.fragments.RecipeListFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1" /> <!-- layout weight splits the screen -->
@@ -14,7 +14,7 @@
 
     <fragment
         android:id="@+id/detailFragment"
-        android:name="com.example.recipes.DetailFragment"
+        android:name="com.example.fragments.DetailFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="2" />
