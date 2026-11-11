@@ -6,7 +6,7 @@
 
     <fragment
         android:id="@+id/detailFragment"
-        android:name="com.example.recipes.DetailFragment"
+        android:name="com.example.fragments.DetailFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </LinearLayout>
